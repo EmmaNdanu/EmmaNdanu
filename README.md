@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning many things — every day is a learning opportunity.
 - ✍ I write technical blogs sometimes on [DEV](https://dev.to)
 - ❤ Contributing to Open Source
-- 💻 Visit my [Portfolio](https://portfolio-carol42.vercel.app) for more details about me.
+- 💻 Visit my [Portfolio]() for more details about me.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=EmmahCook&label=Profile%20views&color=770677&style=for-the-badge&logo=star" />
