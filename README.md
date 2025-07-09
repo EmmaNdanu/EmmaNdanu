@@ -12,8 +12,7 @@
   </a>
 </div>
 
-<!-- Banner -->
-![Emmah Cook Banner Image](./banner.png)
+
 
 <!-- Night Owl Image -->
 <div>
