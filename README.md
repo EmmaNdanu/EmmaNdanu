@@ -48,14 +48,6 @@ I love building things that are simple, clean, and useful.
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EmmaNdanu&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaNdanu&theme=midnight-purple&hide_border=true&layout=compact" />
-</p>
-
----
-
 ## 📬 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-@EmmaNdanu-181717?style=for-the-badge&logo=github)](https://github.com/EmmaNdanu)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emma%20Ndanu-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/EmmaNdanu)  
