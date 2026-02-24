@@ -1,8 +1,11 @@
 <div id="top"></div>
+
+<!-- Header Image -->
 <div align="center">
-  <img width="100%" alt="Welcome to my profile!" src="https://github.com/EmmaNdanu/EmmaNdanu/blob/main/assets/header.png">
+  <img width="100%" alt="Welcome to my profile!" src="https://raw.githubusercontent.com/EmmaNdanu/EmmaNdanu/main/assets/header.png">
 </div>
 
+<!-- Typing Banner -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Emma+Ndanu;Frontend+Developer+|+React+|+JS+Learner;Building+Smart+Budget+Pro+%F0%9F%92%B8" alt="Typing intro banner" />
@@ -36,6 +39,12 @@ I love building things that are simple, clean, and useful.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> Git & GitHub  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24"/> VS Code  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="24"/> Firebase  
+
+---
+
+## 🚧 Currently Building
+- **Smart Budget Pro**: React app for personal finance tracking  
+- Practicing JavaScript fundamentals & React patterns daily  
 
 ---
 
