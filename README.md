@@ -8,7 +8,7 @@
 <!-- Typing Banner -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Emma+Ndanu; Frontend+Developer+|+React+|+JS+Learner;Building+Smart+Budget+Pro+%F0%9F%92%B8" alt="Typing intro banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Emma+Ndanu;Developer+|+React+|+JS+Learner;Building+Smart+Budget+Pro+%F0%9F%92%B8" alt="Typing intro banner" />
   </a>
 </div>
 
