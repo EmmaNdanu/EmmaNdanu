@@ -8,7 +8,7 @@
 <!-- Typing Banner -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Emma+Ndanu;Developer+|+React+|+JS+Learner;Building+Smart+Budget+Pro+%F0%9F%92%B8" alt="Typing intro banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Emma+Ndanu;Developer+|+React+|+JS+Learner;%F0%9F%92%B8" alt="Typing intro banner" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@ I love building things that are simple, clean, and useful.
 
 - 🌱 I’m currently learning React, Node.js, and fullstack web development  
 - ✨ Passionate about building practical projects that solve real problems  
-- 💻 Visit my [[Portfolio](https://portfolio-ten-xi-70.vercel.app/)](#)  
+- 💻 Visit my [[Portfolio](https://portfolio-ten-xi-70.vercel.app/)]
 
 ---
 
@@ -49,7 +49,7 @@ I love building things that are simple, clean, and useful.
 ---
 
 ## 📬 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-@EmmaNdanu-181717?style=for-the-badge&logo=github)](https://github.com/EmmaNdanu)  
+[![GitHub](https://img.shields.io/badge/GitHub@EmmaNdanu-181717?style=for-the-badge&logo=github)](https://github.com/EmmaNdanu)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emma%20Ndanu-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/EmmaNdanu)  
 [![Twitter](https://img.shields.io/badge/Twitter-@EmmaNdanu-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/EmmaNdanu)  
 
