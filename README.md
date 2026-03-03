@@ -20,7 +20,7 @@ I love building things that are simple, clean, and useful.
 
 - 🌱 I’m currently learning React, Node.js, and fullstack web development  
 - ✨ Passionate about building practical projects that solve real problems  
-- 💻 Visit my [[Portfolio](https://portfolio-ten-xi-70.vercel.app/)](#) (coming soon!)  
+- 💻 Visit my [[Portfolio](https://portfolio-ten-xi-70.vercel.app/)](#)  
 
 ---
 
