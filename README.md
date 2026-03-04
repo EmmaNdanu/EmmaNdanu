@@ -31,6 +31,7 @@ I love building things that are simple, clean, and useful.
 <p align="center">
   <img height="170em" src="https://streak-stats.demolab.com?user=EmmaNdanu&theme=midnight-purple&hide_border=true" />
 </p>
+---
 
 ## 🛠 Tech Stack
 
