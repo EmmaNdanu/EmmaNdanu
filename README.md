@@ -23,13 +23,12 @@ I love building things that are simple, clean, and useful.
 - 💻 Visit my [Portfolio](https://portfolio-ten-xi-70.vercel.app/)
 
 ---
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EmmaNdanu&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaNdanu&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmmaNdanu&show_icons=true&theme=midnight-purple" />
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmmaNdanu&layout=compact&theme=midnight-purple" />
 </p>
 
 ## 🛠 Tech Stack
