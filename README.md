@@ -24,11 +24,12 @@ I love building things that are simple, clean, and useful.
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmmaNdanu&show_icons=true&theme=midnight-purple" />
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmmaNdanu&layout=compact&theme=midnight-purple" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=EmmaNdanu&theme=midnight-purple&hide_border=true" />
 </p>
 
 ## 🛠 Tech Stack
