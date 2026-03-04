@@ -33,6 +33,8 @@ I love building things that are simple, clean, and useful.
 </p>
 ---
 
+---
+
 ## 🛠 Tech Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JavaScript  
